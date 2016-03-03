@@ -1,0 +1,3 @@
+ID	URL	WikipediaHeaders
+﻿1	https://en.wikipedia.org/wiki/Oldenburg_%28Oldenburg%29	Oldenburg (Oldenburg)
+2	https://en.wikipedia.org/wiki/Nicki_Minaj	Nicki Minaj
